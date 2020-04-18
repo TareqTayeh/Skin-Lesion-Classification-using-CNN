@@ -1,1 +1,1 @@
-# Skin-Lesion-Classification-using-CNN
+# Skin Lesion Classification using CNN
