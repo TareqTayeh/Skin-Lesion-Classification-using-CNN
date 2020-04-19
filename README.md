@@ -7,7 +7,7 @@ Skin cancer represents a major public health concern as it affects many people i
 
 
 ### Data Set
-The data set used in this project is “The HAM10000 dataset, a large collection of multi-source dermoscopic images of common pigmented skin lesions”, which can be found under the `data` folder. It can also be found on [Kaggle via this link](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)
+The data set used in this project is “The HAM10000 dataset, a large collection of multi-source dermoscopic images of common pigmented skin lesions”. It can be found on [Kaggle via this link](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)
 Reference: `P. Tschandl, C. Rosendahl and H. Kittler, "The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions", Scientific Data, vol. 5, no. 1, 2018. Available: 10.1038/sdata.2018.161.`
 
 
